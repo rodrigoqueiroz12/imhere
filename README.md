@@ -2,7 +2,7 @@
 
 Aplicativo criado como caso de estudos da trilha React Native da Rocketseat.
 
-![](./.github/preview.png)
+![](./.github/preview.jpg)
 
 ## Instalação
 
